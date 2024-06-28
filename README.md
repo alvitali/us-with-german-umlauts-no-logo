@@ -13,7 +13,7 @@ This layout is designed for German speakers using U.S. English mac keyboards. Th
 1. To install the keyboard layout open `Terminal` on your mac and execute the command below. 
 
 ```bash
-curl -sL https://api.github.com/repos/patrick-zippenfenig/us-with-german-umlauts/tarball/master | sudo tar xz --exclude=README.md --strip=1 -C /Library/Keyboard\ Layouts/
+curl -sL https://api.github.com/repos/alvitali/us-with-german-umlauts-no-logo/tarball/master | sudo tar xz --exclude=README.md --strip=1 -C /Library/Keyboard\ Layouts/
 ```
 
 2. Enter your password. This is required because the keyboard layout is installed for all users on your mac.
