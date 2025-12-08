@@ -8,6 +8,7 @@ This layout is designed for German speakers using U.S. English mac keyboards. Th
 * `option` + `shift` + `o` => `Ö`
 * `option` + `shift` + `u` => `Ü`
 * `option` + `shift` + `s` => `ẞ`
+* `option` + `e` => `€`
 
 # Installation #
 1. To install the keyboard layout open `Terminal` on your mac and execute the command below. 
@@ -30,7 +31,7 @@ sudo rm -R /Library/Keyboard\ Layouts/US-with-German-Umlauts.bundle
 ```
 
 # Credits #
-Generated with [Ukelele 3.2.7](http://software.sil.org/ukelele/) and tested on macOS 10.13 High Sierra, 10.14 Mojave, 10.15 Catalina and 11 Big Sur.
+Generated with [Ukelele 3.2.7](http://software.sil.org/ukelele/) and tested on macOS 10.13 High Sierra, 10.14 Mojave, 10.15 Catalina, 11 Big Sur and 26 Tahoe. 
 
 # License #
 MIT License
